@@ -1,14 +1,14 @@
 {
   "user_info": {
-    "name": "彭浩坤",
-    "phone": "15337253798",
-    "unit": "新华水电",
+    "name": "请输入姓名",
+    "phone": "15300000000",
+    "unit": "请填写单位",
     "temperature": "36.5"
   },
   "schedule": {
     "enabled": true,
     "hour": 17,
-    "minute": 31
+    "minute": 10
   },
   "browser": {
     "headless": false
