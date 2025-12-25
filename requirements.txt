@@ -1,0 +1,4 @@
+# 在项目根目录创建requirements.txt文件，固定依赖版本
+pystray==0.19.5
+Pillow==12.0.0
+selenium==4.39.0
